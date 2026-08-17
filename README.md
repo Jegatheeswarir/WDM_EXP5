@@ -1,5 +1,5 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 
+### DATE: 17/08/2026
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
@@ -145,4 +145,6 @@ if __name__ == "__main__":
 
 
 ### Result:
+Therefore, Information Retrieval Using Boolean Model in Python is Implemented.
+
 
